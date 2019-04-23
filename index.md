@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ## Подія в календарі <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGl0Zjh0c2xrYWJpaGdpZmo3dnBwN251cjAgbWF4eW1pdmFub3YyMDEzQG0&amp;tmsrc=maxymivanov2013%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
+## Посилання на опитування https://forms.gle/yGRVJUDQRY8TiVSAA
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
