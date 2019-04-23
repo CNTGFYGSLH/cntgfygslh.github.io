@@ -1,7 +1,4 @@
 ## Welcome to GitHub Pages
-
-Подія в календарі <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGl0Zjh0c2xrYWJpaGdpZmo3dnBwN251cjAgbWF4eW1pdmFub3YyMDEzQG0&amp;tmsrc=maxymivanov2013%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a>
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -10,7 +7,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+<a>Подія в календарі <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGl0Zjh0c2xrYWJpaGdpZmo3dnBwN251cjAgbWF4eW1pdmFub3YyMDEzQG0&amp;tmsrc=maxymivanov2013%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif"></a></a>
 # Header 1
 ## Header 2
 ### Header 3
